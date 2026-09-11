@@ -1,11 +1,14 @@
 >> ### Project Plan : IT PM Project 1 ###<<
 1. Course Name : IT Project Management
 2. Team Information
-- Team Name: Joldasbek Team
+- Team Name:Pusheen Team
 - Team Members (Name / Student ID / Role):
- > Leader Name: Elina Umerova,  Student ID:202490345  , Group: I24D, Role: Leader, Phone Number: +998  
- > Member Name 1: Nurabullaeva Dilfuza,  Student ID:202490221, Group: I24D, Role: Project Planner
- > Member Name 2: Elina Umerova,  Student ID:202490345, Group: I24D, Role: Team leader 
+ > Leader Name: Maksim Em,  Student ID: 202490106, Group: I24C, Role: Leader, Phone Number: +998 (90) 929-59-64 
+ > Member Name 1: Diyorbek Voidjonov, Student ID: 202490357, Group: I24D, Role: Member
+ > Member Name 2: Gumerova Karina,  Student ID: 202490124, Group: I24B, Role: Member  
+ > Member Name 3: Usenbayeva Jasmina,  Student ID: 202490350, Group I24D, Role: Member
+ > Member Name 4: Umerova Elina,  Student ID: 202490345, Group: I24D, Role: Member
+ > Member Name 5: Nurabullaeva Dilfuza,  Student ID: 202490221, Group: I24D, Role: Member
 
 3. Project Title : Data Analysis
 - (Provide a clear and descriptive title for your project.)
@@ -45,7 +48,7 @@ Perform meaningful analysis using Pandas operations:
 |------------------------  |-------------------------------------|
 | Week 1(07.Sep ~ 13.Sep)  | Dataset search and project planning |
 | Week 2(14.Sep ~ 20.Sep)  | Data cleaning and preparation |
-| Week 3(21.Sep ~ 27.Sep)  | Data analysis and visualization |
+| Week 3(21.Sep ~ 27.Sep)  |  Data analysis and visualization |
 | Week 5(28.Sep ~ 13.Oct)  | Report writing and presentation preparation |
 Presentation: 14.Oct
 
@@ -54,7 +57,7 @@ Presentation: 14.Oct
 - Skills developed in Pandas data analysis
 
 11. Conclusion
-- Summary of the project and its importance            
+- Summary of the project and its importance
 
 12. References
 - Dataset source
@@ -62,5 +65,4 @@ Presentation: 14.Oct
 
 13. Appendix
 - Important code snippets
-- Additional charts or tables 
-
+- Additional charts or tables
